@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/responsive-contact-direcctory/static/css/main.ff0f4451.css",
-    "main.js": "/responsive-contact-direcctory/static/js/main.bb18535c.js",
-    "static/js/787.8c158629.chunk.js": "/responsive-contact-direcctory/static/js/787.8c158629.chunk.js",
-    "index.html": "/responsive-contact-direcctory/index.html",
-    "main.ff0f4451.css.map": "/responsive-contact-direcctory/static/css/main.ff0f4451.css.map",
-    "main.bb18535c.js.map": "/responsive-contact-direcctory/static/js/main.bb18535c.js.map",
-    "787.8c158629.chunk.js.map": "/responsive-contact-direcctory/static/js/787.8c158629.chunk.js.map"
+    "main.css": "/responsive-contact-directory/static/css/main.ff0f4451.css",
+    "main.js": "/responsive-contact-directory/static/js/main.343994d2.js",
+    "static/js/787.8f4f89fd.chunk.js": "/responsive-contact-directory/static/js/787.8f4f89fd.chunk.js",
+    "index.html": "/responsive-contact-directory/index.html",
+    "main.ff0f4451.css.map": "/responsive-contact-directory/static/css/main.ff0f4451.css.map",
+    "main.343994d2.js.map": "/responsive-contact-directory/static/js/main.343994d2.js.map",
+    "787.8f4f89fd.chunk.js.map": "/responsive-contact-directory/static/js/787.8f4f89fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff0f4451.css",
-    "static/js/main.bb18535c.js"
+    "static/js/main.343994d2.js"
   ]
 }
