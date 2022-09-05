@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/responsive-contact-direcctory/static/css/main.ff0f4451.css",
+    "main.js": "/responsive-contact-direcctory/static/js/main.bb18535c.js",
+    "static/js/787.8c158629.chunk.js": "/responsive-contact-direcctory/static/js/787.8c158629.chunk.js",
+    "index.html": "/responsive-contact-direcctory/index.html",
+    "main.ff0f4451.css.map": "/responsive-contact-direcctory/static/css/main.ff0f4451.css.map",
+    "main.bb18535c.js.map": "/responsive-contact-direcctory/static/js/main.bb18535c.js.map",
+    "787.8c158629.chunk.js.map": "/responsive-contact-direcctory/static/js/787.8c158629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0f4451.css",
+    "static/js/main.bb18535c.js"
+  ]
+}
