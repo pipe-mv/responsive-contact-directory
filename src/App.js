@@ -50,7 +50,7 @@ function App() {
   };
 
   return (
-    <div className="bg-cyan-400 md:h-screen lg:h-screen ">
+    <div className="bg-cyan-400 ">
       {isOpenModal1 && (
         <ModalContact
           isOpen={isOpenModal1}
